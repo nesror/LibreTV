@@ -163,7 +163,71 @@ const API_SITES = {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
         adult: true
-    },
+    },yutu: {
+         api: 'https://apiyutu.com/api.php/provide/vod',
+         name: '玉兔资源',
+         adult: true
+     },
+    danai: {
+         api: 'https://apidanaizi.com/api.php/provide/vod',
+         name: '大奶',
+         adult: true,
+     },
+    xingba: {
+         api: 'https://xingba111.com/api.php/provide/vod',
+         name: 'X8',
+         adult: true,
+     },
+    semao: {
+         api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
+         name: '色猫',
+         adult: true,
+     },
+    siwa: {
+         api: 'https://siwazyw.tv/api.php/provide/vod',
+         name: '丝袜',
+         adult: true,
+     },
+    xj: {
+         api: 'https://api.xiaojizy.live/provide/vod',
+         name: 'XJ',
+         adult: true,
+     },
+    th: {
+         api: 'https://thzy1.me/api.php/provide/vod',
+         name: 'TH',
+         adult: true,
+     },
+    shark: {
+         api: 'https://shayuapi.com/api.php/provide/vod',
+         name: 'Shark',
+         adult: true,
+     },
+    CL: {
+         api: 'https://www.caoliuzyw.com/api.php/provide/vod',
+         name: 'CL',
+         adult: true,
+     },
+    senglin: {
+         api: 'https://beiyong.slapibf.com/api.php/provide/vod',
+         name: '森林',
+         adult: true,
+     },
+    dd: {
+         api: 'https://api.ddapi.cc/api.php/provide/vod',
+         name: 'DD',
+         adult: true,
+     },
+    LB: {
+         api: 'https://lbapi9.com/api.php/provide/vod',
+         name: 'Lb',
+         adult: true,
+     },
+    hg: {
+         api: 'https://www.avre06.com/api.php/provide/vod',
+         name: 'HG',
+         adult: true,
+     },
 
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
